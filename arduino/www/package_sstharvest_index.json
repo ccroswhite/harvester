@@ -13,14 +13,14 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.26.zip?raw=true",
-          "archiveFileName": "sstharvester.0.0.1.zip",
-          "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
-          #"checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
-          "size": "",
+          "url": "https://github.com/ccroswhite/harvester/blob/main/arduino/www/download/harvester-0.0.1.zip?raw=true",
+          #"url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.26.zip?raw=true",
+          "archiveFileName": "harvester-0.0.1.zip",
+          "checksum": "SHA-256:bf4609dce7d6ed84b8b0ba1bb76238e2b9d2eb5d34a70f2c3b1c9861445f34ad",
+          "size": "3288774",
           "boards": [
             {
-              "name": "SST Harvester"
+              "name": "Harvester"
             }
           ],
           "toolsDependencies":
