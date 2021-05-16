@@ -11,7 +11,7 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/ccroswhite/harvester/blob/main/arduino/www/download/harvester-0.0.1.zip?raw=true",
+          "url": "https://github.com/ccroswhite/harvester/blob/main/arduino/www/download",
           "archiveFileName": "harvester-0.0.1.zip",
           "checksum": "SHA-256:bf4609dce7d6ed84b8b0ba1bb76238e2b9d2eb5d34a70f2c3b1c9861445f34ad",
           "size": "3288774",
