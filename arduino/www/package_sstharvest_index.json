@@ -1,13 +1,11 @@
 {
-  "packages":
-  [
+  "packages": [
     {
       "name": "SST",
       "maintainer": "SST",
       "websiteURL": "http://www.sequoiasemitech.com",
       "email": "info@sequoiasemitech.com",
-      "platforms":
-      [
+      "platforms": [
         {
           "name": "SST SAMD",
           "architecture": "samd",
@@ -22,8 +20,7 @@
               "name": "Harvester"
             }
           ],
-          "toolsDependencies":
-          [
+          "toolsDependencies": [
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
@@ -52,8 +49,7 @@
           ]
         },
       ],
-      "tools":
-      [
+      "tools": [
       ]
     }
   ]
