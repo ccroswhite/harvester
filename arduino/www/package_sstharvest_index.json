@@ -1,0 +1,61 @@
+{
+  "packages":
+  [
+    {
+      "name": "SST",
+      "maintainer": "SST",
+      "websiteURL": "http://www.sequoiasemitech.com",
+      "email" : "",
+      "platforms":
+      [
+        {
+          "name": "SST SAMD",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.26.zip?raw=true",
+          "archiveFileName": "sstharvester.0.0.1.zip",
+          "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
+          #"checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
+          "size": "",
+          "boards": [
+            {
+              "name": "SST Harvester"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
