@@ -5,6 +5,9 @@
       "maintainer": "SST",
       "websiteURL": "http://www.sequoiasemitech.com",
       "email": "info@sequoiasemitech.com",
+      "help": {
+        "online": "http://www.sequoiasemitech.com"
+      },
       "platforms": [
         {
           "name": "SST SAMD",
